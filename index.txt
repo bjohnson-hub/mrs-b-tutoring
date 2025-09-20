@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRS B Tutoring Services LLC</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="unnamed.png" alt="Logo" class="logo">
+        <h1>Welcome to MRS B Tutoring Services LLC</h1>
+    </header>
+
+
+    <main>
+        <section class="welcome">
+            <h2>Our Services</h2>
+            <p>Providing personalized tutoring for students of all ages. We focus on academic excellence and confidence building.</p>
+        </section>
+
+
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>Email: info@mrsbtutoring.com</p>
+            <p>Phone: (773) 443-3838</p>
+        </section>
+    </main>
+
+
+    <footer>
+        <p>&copy; 2025 MRS B Tutoring Services LLC. All rights reserved.</p>
+    </footer>
+</body>
+</html>
